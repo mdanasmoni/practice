@@ -1,5 +1,0 @@
-pactice
-makes yuo 
-wepj eorin r
-
-int main() c++.h
